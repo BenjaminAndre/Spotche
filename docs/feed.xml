@@ -3,11 +3,39 @@
   <channel>
     <title>Spotche</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Nov 2023 22:01:45 +0100</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2023 22:01:45 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 29 Nov 2023 22:21:53 +0100</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 22:21:53 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>My first post</title>
+        <description>&lt;h2 id=&quot;buttons-and-font-awesome&quot;&gt;Buttons and Font Awesome&lt;/h2&gt;
+
+&lt;p&gt;Shiori automatically imports the latest version of &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome&quot;&gt;Font Awesome&lt;/a&gt;. You can use it with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;button&lt;/code&gt;s like so:&lt;/p&gt;
+
+&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt; Tweet&lt;/button&gt;
+&lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-envelope-o&quot;&gt;&lt;/i&gt; Email&lt;/button&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;alerts&quot;&gt;Alerts&lt;/h2&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;Alerts can be useful too!&lt;/div&gt;
+
+&lt;h2 id=&quot;responsive-embed&quot;&gt;Responsive Embed&lt;/h2&gt;
+
+&lt;p&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;embed-responsive&lt;/code&gt; and either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;embed-responsive-16by9&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;embed-responsive-4by3&lt;/code&gt; classes to make embedded objects responsive.&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;//www.youtube.com/embed/J_vGbXDAvmQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/my-first-post</link>
+        <guid isPermaLink="true">http://localhost:4000/my-first-post</guid>
+        
+        
+      </item>
     
       <item>
         <title>Introducing Shiori: A Bootstrap-Based Jekyll Theme</title>
@@ -74,8 +102,8 @@
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/ellekasai&quot; class=&quot;twitter-follow-button&quot; data-show-count=&quot;true&quot; data-size=&quot;large&quot; data-dnt=&quot;true&quot;&gt;Follow @ellekasai&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
-        <link>/introducing-shiori</link>
-        <guid isPermaLink="true">/introducing-shiori</guid>
+        <link>http://localhost:4000/introducing-shiori</link>
+        <guid isPermaLink="true">http://localhost:4000/introducing-shiori</guid>
         
         
       </item>
@@ -154,8 +182,8 @@
 &lt;p&gt;Continue onto &lt;a href=&quot;/example-bootstrap&quot;&gt;Shiori by Example: Helpful Bootstrap Components&lt;/a&gt; to learn more.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Jul 2014 00:00:00 +0200</pubDate>
-        <link>/example-css</link>
-        <guid isPermaLink="true">/example-css</guid>
+        <link>http://localhost:4000/example-css</link>
+        <guid isPermaLink="true">http://localhost:4000/example-css</guid>
         
         
       </item>
@@ -216,8 +244,8 @@
 &lt;p&gt;Shiori uses &lt;a href=&quot;https://github.com/twbs/bootstrap-sass&quot;&gt;bootstrap-sass&lt;/a&gt;, so all of the variables are customizable. To learn more, check out Shiori’s &lt;a href=&quot;http://github.com/ellekasai/shiori/&quot;&gt;README&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Jun 2014 00:00:00 +0200</pubDate>
-        <link>/example-bootstrap</link>
-        <guid isPermaLink="true">/example-bootstrap</guid>
+        <link>http://localhost:4000/example-bootstrap</link>
+        <guid isPermaLink="true">http://localhost:4000/example-bootstrap</guid>
         
         
       </item>
